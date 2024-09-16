@@ -1,3 +1,14 @@
 # RAG
 
 - step1. download Ollama
+
+```bash
+$ ollama run mistral
+```
+
+- step2. install venv
+
+```bash
+python -m venv .venv
+$ source .venv/bin/activate
+```

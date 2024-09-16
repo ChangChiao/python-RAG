@@ -1,5 +1,3 @@
-# 檔案：rag_v3.py
-
 from langchain_community.llms import Ollama
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.embeddings import OllamaEmbeddings
