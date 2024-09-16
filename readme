@@ -12,3 +12,7 @@ $ ollama run mistral
 python -m venv .venv
 $ source .venv/bin/activate
 ```
+
+### What is RAG
+
+[reference](https://www.linkedin.com/posts/mr-deepak-bhardwaj_ai-machinelearning-datascience-activity-7238890112581787648-ImO7/)
